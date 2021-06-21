@@ -104,9 +104,13 @@ Good luck!
 
 ## Solution :
 
+Main Class : /giftpackselector/src/main/java/com/giftpackselector/GiftItemSelectorApp.javaMain Test Class: /giftpackselector/src/test/java/com/giftpackselector/GiftItemSelectorAppTest.javaMain Logic Service : /giftpackselector/src/main/java/com/giftpackselector/services/impl/GiftPackSelector.java holds the main logic.
+Technology Stack  : Java8, Junit , Maven
+
+
 It is a java maven project. You can run com.giftpackselector.GiftItemSelectorApp.java file. It takes src/main/resources/sampleInput.txt as input.
 
-you can run test/java/com/giftpackselector/GiftItemSelectorAppTest.java. I have created test case for all abpve given constraints.
+you can run test/java/com/giftpackselector/GiftItemSelectorAppTest.java. I have created test case for all above given constraints.
 
 It has 96.7% junit code coverage.
 
