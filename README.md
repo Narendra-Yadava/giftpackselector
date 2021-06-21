@@ -102,5 +102,13 @@ Good luck!
 
 
 
+## Solution :
 
+It is a java maven project. You can run com.giftpackselector.GiftItemSelectorApp.java file. It takes src/main/resources/sampleInput.txt as input.
+
+you can run test/java/com/giftpackselector/GiftItemSelectorAppTest.java. I have created test case for all abpve given constraints.
+
+It has 96.7% junit code coverage.
+
+![image](https://user-images.githubusercontent.com/43212180/122783455-3558b000-d2cf-11eb-94fd-38fd8f967cfa.png)
 
